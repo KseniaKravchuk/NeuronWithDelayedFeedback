@@ -1,0 +1,8 @@
+packages/
+NeuronWithDelayedFeedback/Properties/
+NeuronWithDelayedFeedback/obj/
+NeuronWithDelayedFeedback/bin/
+.vs/
+NeuronWithDelayedFeedback.VC.db
+NeuronWithDelayedFeedback.VC.VC.opendb
+NeuronWithDelayedFeedback.sln
